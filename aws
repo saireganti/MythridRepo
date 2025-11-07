@@ -1,4 +1,6 @@
 
+
+
 <html>
 <head>
   <link rel="stylesheet" href="styles.css">
@@ -48,3 +50,6 @@ tml>
 </body>
 </html>
 <p><samp>File not found.<br>Press F1 to continue</samp></p>
+
+
+just added some lines to check the file name
