@@ -1,0 +1,1 @@
+A webhook is a way for one application to send real-time data to another application whenever a specific event occurs. In the context of Git and Jenkins, webhooks enable Jenkins to receive notifications from a Git repository (e.g., GitHub, GitLab) whenever a commit is pushed or a pull request is created.
