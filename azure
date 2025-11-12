@@ -1,0 +1,1 @@
+Now lets make it automate - Whenever developer make some changes in GitHub, Jenkins has to trigger the build automatically. To implement it we can use the below concepts
